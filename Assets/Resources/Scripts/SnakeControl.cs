@@ -32,6 +32,5 @@ public class SnakeControl : MonoBehaviour
 
 	void Update () 
 	{
-
 	}
 }
